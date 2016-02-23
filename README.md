@@ -12,7 +12,7 @@
 
 ### Página Conversor de temperatura
 
-* [No disponible (en constricción)]()
+* [No disponible (en construcción)]()
 
 ### Ejecutar las pruebas
 
