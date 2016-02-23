@@ -7,8 +7,8 @@ function calculate() {
   var m = temp.match(regexp);
   
   if (m) {
-    var num = m[1];
-    var type = m[3];
+    var num = m[1];   // Se guarda el valor
+    var type = m[3];  // Se guarda el tipo
     num = parseFloat(num);
     if (type == 'c' || type == 'C') {
       result = (num * 9/5)+32;
