@@ -1,21 +1,19 @@
-# ETSII ULL Grado de Informatica
+# ESIT ULL Grado de Informática
 
 ## Práctica: Conversor en JavaScript de grados Celsius a Farenheit y viceversa
 
-### Que aprendemos
+### Autores: Teguayco Gutiérrez González y Óscar David Martín Cabrera
 
-* HTML básico
-* JavaScript básico
-* Expresiones Regulares
-* Un poquito de CSS
-* Uso de Emmet (instale el plugin para su editor)
-* Uso de Mocha y Chai 
-* Uso de Gulp
+ En esta ocasión presentamos una pequeña aplicación realizada en html, css y javascript para la converción de temperatura en grados celcio a fahrenheit y viceversaEn esta ocasión presentamos una pequeña aplicación realizada en html, css y JavaScript para la conversión de temperatura en grados Celsius a Fahrenheit y viceversa.
 
-### Despliegue en github.io
+### Repositorio
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+* [https://github.com/alu0100825503/conversor-de-temperatura-simple-pl-teguayco-oscar](https://github.com/alu0100825503/conversor-de-temperatura-simple-pl-teguayco-oscar)
+
+### Página Conversor de temperatura
+
+* [No disponible (en construcción)]()
 
 ### Ejecutar las pruebas
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
+* [No disponible (en construcción)]()
