@@ -10,7 +10,11 @@ function calculate() {
     var num = m[1];   // Se guarda el valor
     var type = m[3];  // Se guarda el tipo
     num = parseFloat(num);
-    if (type == 'c' || type == 'C') {
+    
+    // Hay que cambiarlo para revisar el primer caracter de la cadena,
+    // con charAt() ya que ahora podemos definir el tipo no sólo por 
+    // la inicial de la unidad de medida
+    if (type.charAt(0) == 'c' || type.charAt(0) == 'C') {
       result = (num * 9/5)+32;
       result = result.toFixed(1)+" Farenheit"
     }
