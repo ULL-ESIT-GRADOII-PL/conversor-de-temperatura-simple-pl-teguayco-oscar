@@ -1,1 +1,24 @@
+body{
+    background-color:rgba(33, 127, 127, 1);
+}
 
+h1{
+    border: 3px solid black;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+}
+table{
+    //height: 50%;
+    //border: 3px solid black;
+    /*padding:20px 20px 20px 20px;*/
+    font-family: 'Titillium Web', sans-serif;
+    font-size:20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th, tr{
+   padding-left:2%;
+   padding-right:2%;
+   padding-top:2%;
+}
