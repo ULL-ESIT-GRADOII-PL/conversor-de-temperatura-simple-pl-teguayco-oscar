@@ -1,7 +1,7 @@
 <html>
   <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <title>JavaScript Temperature Converter</title>
+      <title>Temperature Converter</title>
       <link href="global.css" rel="stylesheet" type="text/css">
 
      <script type="text/javascript" src="temperature.js"></script>
@@ -10,14 +10,14 @@
     <h1>Temperature Converter</h1>
     <table>
       <tr>
-        <th>Enter  Temperature (examples: 32F, 45C, -2.5f):</th>
+        <th>Enter  Temperature (examples: 32F, 45C, -2.5e2f):</th>
         <td>
           <form id="formulario" onsubmit="calculate();">
           <input id="original" 
                  placeholder="32F" 
                  size="50"
-                 title = "Escribe un número seguido de una de las letras 'F' o 'C'"
-                 pattern="([-+]?\d+(?:\.\d*)?)\s*([fFcC])"
+                 title = "Escribe un número seguido de una de las letras 'F' o 'C' o una abreviatura válida."
+                 pattern="/^([-+]?\d+(?:\.\d*)?([e][-+]?\d+)?)\s*((f(a(h(r(e(n(h(e(i(t)?)?)?)?)?)?)?)?)?)|(c(e(l(s(i(u(s)?)?)?)?)?)?))\s*$/i"
           />
           </form>
         </td>
