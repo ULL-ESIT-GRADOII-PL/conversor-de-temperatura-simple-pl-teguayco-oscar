@@ -4,7 +4,7 @@
 
 ### Autores: Teguayco Gutiérrez González y Óscar David Martín Cabrera
 
- En esta ocasión presentamos una pequeña aplicación realizada en html, css y javascript para la converción de temperatura en grados celcio a fahrenheit y viceversaEn esta ocasión presentamos una pequeña aplicación realizada en html, css y JavaScript para la conversión de temperatura en grados Celsius a Fahrenheit y viceversa.
+ En esta ocasión presentamos una pequeña aplicación realizada en html, css y JavaScript para la conversión de temperatura en grados Celsius a Fahrenheit y viceversa.
 
 ### Repositorio
 
