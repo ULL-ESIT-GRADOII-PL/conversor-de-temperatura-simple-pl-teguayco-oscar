@@ -4,7 +4,7 @@
 
 ### Autores: Teguayco Gutiérrez González y Óscar David Martín Cabrera
 
- En esta ocasión presentamos una pequeña aplicación realizada en html, css y javascript para la converción de temperatura en grados celcio a fahrenheit y viceversaEn esta ocasión presentamos una pequeña aplicación realizada en html, css y JavaScript para la conversión de temperatura en grados Celsius a Fahrenheit y viceversa.
+ En esta ocasión presentamos una pequeña aplicación realizada en html, css y JavaScript para la conversión de temperatura en grados Celsius a Fahrenheit y viceversa.
 
 ### Repositorio
 
@@ -13,6 +13,20 @@
 ### Página Conversor de temperatura
 
 * [http://alu0100825503.github.io/conversor-de-temperatura-simple-pl-teguayco-oscar/](http://alu0100825503.github.io/conversor-de-temperatura-simple-pl-teguayco-oscar/)
+
+### Campus virtual de la asignatura
+
+* [https://campusvirtual.ull.es/1516/course/view.php?id=178](https://campusvirtual.ull.es/1516/course/view.php?id=178) 
+
+
+### Entrega de la práctica en el CV
+
+* [https://campusvirtual.ull.es/1516/mod/workshop/view.php?id=174676](https://campusvirtual.ull.es/1516/mod/workshop/view.php?id=174676)
+
+### Página de prácticas de los alumnos
+
+* [Óscar David Martín Cabrera](oscar-dmc.github.io)
+* [Teguayco Gutiérrez González](alu0100825503.github.io)
 
 ### Ejecutar las pruebas
 
