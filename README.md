@@ -12,7 +12,7 @@
 
 ### Página Conversor de temperatura
 
-* [http://alu0100825503.github.io/conversor-de-temperatura-simple-pl-teguayco-oscar/](http://alu0100825503.github.io/conversor-de-temperatura-simple-pl-teguayco-oscar/)
+* [https://github.com/ULL-ESIT-GRADOII-PL/conversor-de-temperatura-simple-pl-teguayco-oscar](https://github.com/ULL-ESIT-GRADOII-PL/conversor-de-temperatura-simple-pl-teguayco-oscar)
 
 ### Campus virtual de la asignatura
 
